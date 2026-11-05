@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+node_modules/
+
+# Local install artifacts (the pet widget workspace is managed by the host)
+workspace/
